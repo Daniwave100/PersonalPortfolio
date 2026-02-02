@@ -58,27 +58,7 @@ const imageData = [
   { src: 'assets/images/travel7.jpg', caption: 'Mount Fitz Roy, Argentina' },
   { src: 'assets/images/travel8.jpg', caption: 'Yosemite National Park, California, United States' },
   { src: 'assets/images/travel9.jpg', caption: 'Forrest Gump Point, Utah, United States' },
-  { src: 'assets/images/travel10.jpg', caption: 'Monument Valley, Arizona, United States' },
-  { src: 'assets/images/travel11.jpg', caption: 'Matterhorn, Zermatt, Switzerland' },
-  { src: 'assets/images/travel12.jpg', caption: 'Torres del Paine Base, Chile' },
-  { src: 'assets/images/travel13.jpg', caption: 'Horseshoe Bend, Arizona, United States' },
-  { src: 'assets/images/travel14.jpg', caption: 'Monument Valley Scenic Drive, Arizona, United States' },
-  { src: 'assets/images/travel15.jpg', caption: 'Lago Atitlán, Guatemala' },
-  { src: 'assets/images/travel16.jpg', caption: 'Torres del Paine, Chile' },
-  { src: 'assets/images/travel17.jpg', caption: 'Antelope Canyon, Arizona, United States' },
-  { src: 'assets/images/travel18.jpg', caption: 'Torres del Paine, Chile (Patagonia is just beautiful;))' },
-  { src: 'assets/images/travel19.jpg', caption: 'Giza Complex, Egypt' },
-  { src: 'assets/images/travel20.jpg', caption: 'Menton, France' },
-  { src: 'assets/images/travel21.jpg', caption: 'Grota do Inferno, Azores, Portugal' },
-  { src: 'assets/images/travel22.jpg', caption: 'Rio de Janeiro, Brazil' },
-  { src: 'assets/images/travel23.jpg', caption: 'Somewhere in Iceland' },
-  { src: 'assets/images/travel24.jpg', caption: 'Rome, Italy' },
-  { src: 'assets/images/travel25.jpg', caption: 'Poços de Caldas, Minas Gerais, Brazil (my family\'s hometown)' },
-  { src: 'assets/images/travel26.jpg', caption: 'Vatnajökull Glacier, Iceland' },
-  { src: 'assets/images/travel27.jpg', caption: 'Perito Moreno Glacier, Argentina' },
-  { src: 'assets/images/travel28.jpg', caption: 'Foz do Iguaçu National Park, Brazil' },
-  { src: 'assets/images/travel29.jpg', caption: 'Maracanã Stadium, Rio de Janeiro, Brazil' },
-  { src: 'assets/images/travel30.jpg', caption: 'New York City, New York, NY' }
+  
 ];
 
 let currentImageIndex = 0;
